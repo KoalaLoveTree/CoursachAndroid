@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Points>
+    <point
+        x = "-1.5"
+        y = "-14.1"/>
+    <point
+        x = "-0.75"
+        y = "-0.93"/>
+    <point
+        x = "0"
+        y = "0"/>
+    <point
+        x = "0.75"
+        y = "0.93"/>
+    <point
+        x = "1.5"
+        y = "14.1"/>
+</Points>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_load_from_file"
+        android:title="Load data from file"
+        />
+    <!--<item-->
+        <!--android:id="@+id/action_create_report"-->
+        <!--android:title="Create report"-->
+        <!--/>-->
+    <item
+        android:id="@+id/action_open_help"
+        android:title="Help"
+        />
+</menu>

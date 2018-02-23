@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coursach</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_help">Enter points of your function into fields and tap -Add- button to add point.
+    When you tap -Stop- button, entering will be end and button -Build-, will become enable. Tap on button
+    -Build-, build your graph and interpolated graph. Start graph draw by red line, and interpolated
+    graph draw by green line. Tap on menu item -Load data from file- download data from file, which
+    is in resources, named example.xml. Tap on menu item -Create report- send you to activity
+    when you can modify report and save it into the file. Tap button -Save- in modify
+        report activity, will save yours report with name, which you write under the
+        report in the correct field  @create by Alex</string>
+    <string name="reportTemplate">Some text</string>
+</resources>
